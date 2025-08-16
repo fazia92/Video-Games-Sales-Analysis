@@ -1,0 +1,2 @@
+# Video-games-sales
+Exploratory data analysis (EDA) using Python to examine global video game sales trends. This project involves data cleaning, aggregation, and statistical exploration to identify top-selling games, platforms, and genres across different regions. Analyses include sales distribution, time series trends, and performance comparison by publisher and market using visualization libraries such as Matplotlib and Seaborn.
